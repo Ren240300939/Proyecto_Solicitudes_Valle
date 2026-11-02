@@ -1,0 +1,4 @@
+aplicacion/bin/
+aplicacion/runtime*/
+evidencias/*
+!evidencias/LEEME.txt
